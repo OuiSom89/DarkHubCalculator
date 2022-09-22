@@ -1,0 +1,251 @@
+local ScreenGuiC = Instance.new("ScreenGui")
+local G = Instance.new("Frame")
+local GRe = Instance.new("Frame")
+local GBEnter = Instance.new("TextButton")
+local GB0 = Instance.new("TextButton")
+local GB1 = Instance.new("TextButton")
+local GB2 = Instance.new("TextButton")
+local GB3 = Instance.new("TextButton")
+local GB4 = Instance.new("TextButton")
+local GB5 = Instance.new("TextButton")
+local GB6 = Instance.new("TextButton")
+local GB7 = Instance.new("TextButton")
+local GB8 = Instance.new("TextButton")
+local GB9 = Instance.new("TextButton")
+local GB* = Instance.new("TextButton")
+local GB/ = Instance.new("TextButton")
+local GB+ = Instance.new("TextButton")
+local GB- = Instance.new("TextButton")
+local GBAC = Instance.new("TextButton")
+local GBSupp = Instance.new("TextButton")
+local GBOff = Instance.new("TextButton")
+local GBV = Instance.new("TextButton")
+local GBans = Instance.new("TextButton")
+
+local UICornerG = Instance.new("UICorner")
+local UICornerGRe = Instance.new("UICorner")
+local UICornerGBExe = Instance.new("UICorner")
+local CloseButton = Instance.new("ImageButton")
+local UICornerCloseButton = Instance.new("UICorner")
+
+UICornerGBExe.Parent = GBExe
+UICornerG.Parent = G
+UICornerGRe.Parent = GRe
+UICornerCloseButton.Parent = CloseButton
+
+ScreenGuiC.Parent = game.CoreGui
+
+G.Name = "G"
+G.Parent = ScreenGuiC
+G.BackgroundColor3 = Color3.fromRGB(0,0,0)
+G.Position = UDim2.new(0.348986119, 0, 0.369458109, 0)
+G.Size = UDim2.new(0, 300, 0, 400)
+G.Active = true
+G.Draggable = true
+
+GRe.Name = "G"
+GRe.Parent = G
+GRe.BackgroundColor3 = Color3.fromRGB(60,60,60)
+GRe.Position = UDim2.new(0, 10, 0, 10)
+GRe.Size = UDim2.new(0, 280, 0, 100)
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = G
+CloseButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+CloseButton.BorderSizePixel = 0
+CloseButton.Position = UDim2.new(0, 280, 0, 0)
+CloseButton.Size = UDim2.new(0, 20, 0, 20)
+CloseButton.Image = 'rbxassetid://10764303701'
+CloseButton.MouseButton1Click:Connect(function()
+	ScreenGuiC:Destroy()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
+
+GBExe.Name = "CloseButton"
+GBExe.Parent = G
+GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBExe.Text = 'EXE'
+GBExe.TextColor3 = Color3.fromRGB(255,255,255)
+GBExe.Position = UDim2.new(0, 242, 0,365)
+GBExe.Size = UDim2.new(0, 48, 0, 25)
+GBExe.MouseButton1Click:Connect(function()
+end)
