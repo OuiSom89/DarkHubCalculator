@@ -139,111 +139,111 @@ GB6.MouseButton1Click:Connect(function()
 end)
 
 GB7.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB7.Parent = G
+GB7.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB7.Text = 'EXE'
+GB7.TextColor3 = Color3.fromRGB(255,255,255)
+GB7.Position = UDim2.new(0, 242, 0,365)
+GB7 = UDim2.new(0, 48, 0, 25)
+GB7.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB8.Name = "CloseButton"
+GB8.Parent = G
+GB8.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB8.Text = 'EXE'
+GB8.TextColor3 = Color3.fromRGB(255,255,255)
+GB8.Position = UDim2.new(0, 242, 0,365)
+GB8.Size = UDim2.new(0, 48, 0, 25)
+GB8.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB9.Name = "CloseButton"
+GB9.Parent = G
+GB9.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB9.Text = 'EXE'
+GB9.TextColor3 = Color3.fromRGB(255,255,255)
+GB9.Position = UDim2.new(0, 242, 0,365)
+GB9.Size = UDim2.new(0, 48, 0, 25)
+GB9.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB*.Name = "CloseButton"
+GB*.Parent = G
+GB*.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB*.Text = 'EXE'
+GB*.TextColor3 = Color3.fromRGB(255,255,255)
+GB*.Position = UDim2.new(0, 242, 0,365)
+GB*.Size = UDim2.new(0, 48, 0, 25)
+GB*.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB/.Name = "CloseButton"
+GB/.Parent = G
+GB/.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB/.Text = 'EXE'
+GB/.TextColor3 = Color3.fromRGB(255,255,255)
+GB/.Position = UDim2.new(0, 242, 0,365)
+GB/.Size = UDim2.new(0, 48, 0, 25)
+GB/.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB+.Name = "CloseButton"
+GB+.Parent = G
+GB+.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB+.Text = 'EXE'
+GB+.TextColor3 = Color3.fromRGB(255,255,255)
+GB+.Position = UDim2.new(0, 242, 0,365)
+GB+.Size = UDim2.new(0, 48, 0, 25)
+GB+.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GB-.Name = "CloseButton"
+GB-.Parent = G
+GB-.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GB-.Text = 'EXE'
+GB-.TextColor3 = Color3.fromRGB(255,255,255)
+GB-.Position = UDim2.new(0, 242, 0,365)
+GB-.Size = UDim2.new(0, 48, 0, 25)
+GB-.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GBAC.Name = "CloseButton"
+GBAC.Parent = G
+GBAC.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBAC.Text = 'EXE'
+GBAC.TextColor3 = Color3.fromRGB(255,255,255)
+GBAC.Position = UDim2.new(0, 242, 0,365)
+GBAC.Size = UDim2.new(0, 48, 0, 25)
+GBAC.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GBSupp.Name = "CloseButton"
+GBSupp.Parent = G
+GBSupp.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBSupp.Text = 'EXE'
+GBSupp.TextColor3 = Color3.fromRGB(255,255,255)
+GBSupp.Position = UDim2.new(0, 242, 0,365)
+GBSupp.Size = UDim2.new(0, 48, 0, 25)
+GBSupp.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GBV.Name = "CloseButton"
+GBV.Parent = G
+GBV.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBV.Text = 'EXE'
+GBV.TextColor3 = Color3.fromRGB(255,255,255)
+GBV.Position = UDim2.new(0, 242, 0,365)
+GBV.Size = UDim2.new(0, 48, 0, 25)
+GBV.MouseButton1Click:Connect(function()
 end)
 
-GBExe.Name = "CloseButton"
-GBExe.Parent = G
-GBExe.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBExe.Text = 'EXE'
-GBExe.TextColor3 = Color3.fromRGB(255,255,255)
-GBExe.Position = UDim2.new(0, 242, 0,365)
-GBExe.Size = UDim2.new(0, 48, 0, 25)
-GBExe.MouseButton1Click:Connect(function()
+GBans.Name = "CloseButton"
+GBans.Parent = G
+GBans.BackgroundColor3 = Color3.fromRGB(30,30,30)
+GBans.Text = 'EXE'
+GBans.TextColor3 = Color3.fromRGB(255,255,255)
+GBans.Position = UDim2.new(0, 242, 0,365)
+GBans.Size = UDim2.new(0, 48, 0, 25)
+GBans.MouseButton1Click:Connect(function()
 end)
