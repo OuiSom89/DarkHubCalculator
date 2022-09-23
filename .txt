@@ -61,7 +61,7 @@ end)
 GBEnter.Name = "GBEnter"
 GBEnter.Parent = G
 GBEnter.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBEnter.Text = 'EXE'
+GBEnter.Text = 'Enter'
 GBEnter.TextColor3 = Color3.fromRGB(255,255,255)
 GBEnter.Position = UDim2.new(0, 242, 0,365)
 GBEnter.Size = UDim2.new(0, 48, 0, 25)
@@ -71,7 +71,7 @@ end)
 GB0.Name = "CloseButton"
 GB0.Parent = G
 GB0.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB0.Text = 'EXE'
+GB0.Text = '0'
 GB0.TextColor3 = Color3.fromRGB(255,255,255)
 GB0.Position = UDim2.new(0, 242, 0,365)
 GB0.Size = UDim2.new(0, 48, 0, 25)
@@ -81,7 +81,7 @@ end)
 GB1.Name = "CloseButton"
 GB1.Parent = G
 GB1.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB1.Text = 'EXE'
+GB1.Text = '1'
 GB1.TextColor3 = Color3.fromRGB(255,255,255)
 GB1.Position = UDim2.new(0, 242, 0,365)
 GB1.Size = UDim2.new(0, 48, 0, 25)
@@ -91,7 +91,7 @@ end)
 GB2.Name = "CloseButton"
 GB2.Parent = G
 GB2.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB2.Text = 'EXE'
+GB2.Text = '2'
 GB2.TextColor3 = Color3.fromRGB(255,255,255)
 GB2.Position = UDim2.new(0, 242, 0,365)
 GB2.Size = UDim2.new(0, 48, 0, 25)
@@ -101,7 +101,7 @@ end)
 GB3.Name = "CloseButton"
 GB3.Parent = G
 GB3.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB3.Text = 'EXE'
+GB3.Text = '3'
 GB3 = Color3.fromRGB(255,255,255)
 GB3.Position = UDim2.new(0, 242, 0,365)
 GB3 = UDim2.new(0, 48, 0, 25)
@@ -111,7 +111,7 @@ end)
 GB4.Name = "CloseButton"
 GB4.Parent = G
 GB4.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB4.Text = 'EXE'
+GB4.Text = '4'
 GB4.TextColor3 = Color3.fromRGB(255,255,255)
 GB4.Position = UDim2.new(0, 242, 0,365)
 GB4.Size = UDim2.new(0, 48, 0, 25)
@@ -121,7 +121,7 @@ end)
 GB5.Name = "CloseButton"
 GB5.Parent = G
 GB5.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB5.Text = 'EXE'
+GB5.Text = '5'
 GB5.TextColor3 = Color3.fromRGB(255,255,255)
 GB5.Position = UDim2.new(0, 242, 0,365)
 GB5.Size = UDim2.new(0, 48, 0, 25)
@@ -131,7 +131,7 @@ end)
 GB6.Name = "CloseButton"
 GB6.Parent = G
 GB6.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB6.Text = 'EXE'
+GB6.Text = '6'
 GB6.TextColor3 = Color3.fromRGB(255,255,255)
 GB6.Position = UDim2.new(0, 242, 0,365)
 GB6.Size = UDim2.new(0, 48, 0, 25)
@@ -141,7 +141,7 @@ end)
 GB7.Name = "CloseButton"
 GB7.Parent = G
 GB7.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB7.Text = 'EXE'
+GB7.Text = '7'
 GB7.TextColor3 = Color3.fromRGB(255,255,255)
 GB7.Position = UDim2.new(0, 242, 0,365)
 GB7 = UDim2.new(0, 48, 0, 25)
@@ -151,7 +151,7 @@ end)
 GB8.Name = "CloseButton"
 GB8.Parent = G
 GB8.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB8.Text = 'EXE'
+GB8.Text = '8'
 GB8.TextColor3 = Color3.fromRGB(255,255,255)
 GB8.Position = UDim2.new(0, 242, 0,365)
 GB8.Size = UDim2.new(0, 48, 0, 25)
@@ -161,7 +161,7 @@ end)
 GB9.Name = "CloseButton"
 GB9.Parent = G
 GB9.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB9.Text = 'EXE'
+GB9.Text = '9'
 GB9.TextColor3 = Color3.fromRGB(255,255,255)
 GB9.Position = UDim2.new(0, 242, 0,365)
 GB9.Size = UDim2.new(0, 48, 0, 25)
@@ -171,7 +171,7 @@ end)
 GB*.Name = "CloseButton"
 GB*.Parent = G
 GB*.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB*.Text = 'EXE'
+GB*.Text = '*'
 GB*.TextColor3 = Color3.fromRGB(255,255,255)
 GB*.Position = UDim2.new(0, 242, 0,365)
 GB*.Size = UDim2.new(0, 48, 0, 25)
@@ -181,7 +181,7 @@ end)
 GB/.Name = "CloseButton"
 GB/.Parent = G
 GB/.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB/.Text = 'EXE'
+GB/.Text = '/'
 GB/.TextColor3 = Color3.fromRGB(255,255,255)
 GB/.Position = UDim2.new(0, 242, 0,365)
 GB/.Size = UDim2.new(0, 48, 0, 25)
@@ -191,7 +191,7 @@ end)
 GB+.Name = "CloseButton"
 GB+.Parent = G
 GB+.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB+.Text = 'EXE'
+GB+.Text = '+'
 GB+.TextColor3 = Color3.fromRGB(255,255,255)
 GB+.Position = UDim2.new(0, 242, 0,365)
 GB+.Size = UDim2.new(0, 48, 0, 25)
@@ -201,7 +201,7 @@ end)
 GB-.Name = "CloseButton"
 GB-.Parent = G
 GB-.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GB-.Text = 'EXE'
+GB-.Text = '-'
 GB-.TextColor3 = Color3.fromRGB(255,255,255)
 GB-.Position = UDim2.new(0, 242, 0,365)
 GB-.Size = UDim2.new(0, 48, 0, 25)
@@ -211,7 +211,7 @@ end)
 GBAC.Name = "CloseButton"
 GBAC.Parent = G
 GBAC.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBAC.Text = 'EXE'
+GBAC.Text = 'AC'
 GBAC.TextColor3 = Color3.fromRGB(255,255,255)
 GBAC.Position = UDim2.new(0, 242, 0,365)
 GBAC.Size = UDim2.new(0, 48, 0, 25)
@@ -221,7 +221,7 @@ end)
 GBSupp.Name = "CloseButton"
 GBSupp.Parent = G
 GBSupp.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBSupp.Text = 'EXE'
+GBSupp.Text = 'SUPP'
 GBSupp.TextColor3 = Color3.fromRGB(255,255,255)
 GBSupp.Position = UDim2.new(0, 242, 0,365)
 GBSupp.Size = UDim2.new(0, 48, 0, 25)
@@ -231,7 +231,7 @@ end)
 GBV.Name = "CloseButton"
 GBV.Parent = G
 GBV.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBV.Text = 'EXE'
+GBV.Text = '.'
 GBV.TextColor3 = Color3.fromRGB(255,255,255)
 GBV.Position = UDim2.new(0, 242, 0,365)
 GBV.Size = UDim2.new(0, 48, 0, 25)
@@ -241,7 +241,7 @@ end)
 GBans.Name = "CloseButton"
 GBans.Parent = G
 GBans.BackgroundColor3 = Color3.fromRGB(30,30,30)
-GBans.Text = 'EXE'
+GBans.Text = 'ans'
 GBans.TextColor3 = Color3.fromRGB(255,255,255)
 GBans.Position = UDim2.new(0, 242, 0,365)
 GBans.Size = UDim2.new(0, 48, 0, 25)
